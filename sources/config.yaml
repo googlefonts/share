@@ -1,0 +1,8 @@
+buildVariable: false
+removeOutlineOverlaps: false
+productionNames: false
+sources:
+  - Share-Bold.glyphs
+  - Share-BoldItalic.glyphs
+  - Share-Italic.glyphs
+  - Share-Regular.glyphs
